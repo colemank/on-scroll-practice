@@ -1,4 +1,81 @@
-html {
-  height: 800px;
+html body {
+  margin: 0;
   width: 100%;
-  background: black; }
+  background: transparent; }
+  html body section {
+    position: relative;
+    display: flex;
+    height: 500px;
+    width: 100%; }
+    html body section .sec-one {
+      position: relative;
+      display: flex;
+      height: 100%;
+      width: 100%;
+      background-color: #4f5f82; }
+      html body section .sec-one .sec-one-top {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
+      html body section .sec-one .sec-one-bottom {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
+    html body section .sec-two {
+      position: relative;
+      display: flex;
+      height: 100%;
+      width: 100%;
+      background-color: #253e44; }
+      html body section .sec-two .sec-two-top {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
+      html body section .sec-two .sec-two-bottom {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
+    html body section .sec-three {
+      position: relative;
+      display: flex;
+      height: 100%;
+      width: 100%;
+      background-color: #003f4f; }
+      html body section .sec-three .sec-three-top {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
+      html body section .sec-three .sec-three-bottom {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
+    html body section .sec-four {
+      position: relative;
+      display: flex;
+      height: 100%;
+      width: 100%;
+      background-color: #8dc5d3; }
+      html body section .sec-four .sec-four-top {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
+      html body section .sec-four .sec-four-bottom {
+        position: relative;
+        display: flex;
+        height: 50%;
+        width: 100%;
+        border: 1px solid white; }
