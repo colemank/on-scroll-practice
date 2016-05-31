@@ -2002,6 +2002,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/lib\/js\/scroll.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/lib\/js\/scroll.js",
+		"outputAbbreviatedPath": "\/lib\/js\/min\/scroll-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/lib\/scss\/global.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -2027,7 +2038,7 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "on-scroll",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "compass_blue"
 	},
 "projectSettings": {

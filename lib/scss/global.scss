@@ -2,96 +2,47 @@ html body{
 	margin:0; 
 	width:100%; 
 	background:transparent;
-
+}
 	section{
 		position:relative;
 		display: flex;
-		height: 500px;
+		height: 700px;
 		width: 100%;
 		
 		.sec-one{
-			position:relative;
-			display: flex;
 			height: 100%;
-			width: 100%;
+			width:100%;
 			background-color:#4f5f82;
-				.sec-one-top{
-					position:relative;
-					display: flex;
+				.sec-one-divide{
 					height: 50%;
-					width: 100%;
-					border: 1px solid white;
-				}
-				.sec-one-bottom{
-					position:relative;
-					display: flex;
-					height: 50%;
-					width: 100%;
 					border: 1px solid white;
 				}
 		}
 		.sec-two{
-			position:relative;
-			display: flex;
 			height: 100%;
-			width: 100%;
+			width:100%;
 			background-color:#253e44;
-				.sec-two-top{
-					position:relative;
-					display: flex;
+				.sec-two-divide{
 					height: 50%;
-					width: 100%;
-					border: 1px solid white;
-				}
-				.sec-two-bottom{
-					position:relative;
-					display: flex;
-					height: 50%;
-					width: 100%;
 					border: 1px solid white;
 				}
 		}
 		.sec-three{
-			position:relative;
-			display: flex;
 			height: 100%;
-			width: 100%;
+			width:100%;
 			background-color:#003f4f;
-				.sec-three-top{
-					position:relative;
-					display: flex;
+				.sec-three-divide{
 					height: 50%;
-					width: 100%;
-					border: 1px solid white;
-				}
-				.sec-three-bottom{
-					position:relative;
-					display: flex;
-					height: 50%;
-					width: 100%;
 					border: 1px solid white;
 				}
 		}
 		.sec-four{
-			position:relative;
-			display: flex;
 			height: 100%;
-			width: 100%;
+			width:100%;
 			background-color:#8dc5d3;
-				.sec-four-top{
-					position:relative;
-					display: flex;
+				.sec-four-divide{
 					height: 50%;
-					width: 100%;
-					border: 1px solid white;
-				}
-				.sec-four-bottom{
-					position:relative;
-					display: flex;
-					height: 50%;
-					width: 100%;
 					border: 1px solid white;
 				}
 		}
 	}
-}
